@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![SULogo](https://github.com/user-attachments/assets/7ce9765f-e28c-4689-8925-6554f6bfcb0e)
+<img src="https://github.com/user-attachments/assets/7ce9765f-e28c-4689-8925-6554f6bfcb0e" width="300px" height="300px">
 
 # SimpleUnlocker
 **SimpleUnlocker** - Программа **"Мултитул"** предназначенная для простой разблокировки Windows от вирусов.
